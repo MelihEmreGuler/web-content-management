@@ -19,3 +19,11 @@
 
 # Go workspace file
 go.work
+
+# JetBrains IDE
+.idea/*
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
