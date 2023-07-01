@@ -7,6 +7,7 @@ import (
 	"net/http"
 )
 
+// routes sets the routes for the application
 func routes() http.Handler {
 	mux := chi.NewRouter()
 
